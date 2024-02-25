@@ -16,7 +16,7 @@ from streamlit_option_menu import option_menu
 
 
 st.set_page_config(
-    page_title='WisdomBot Web App',
+    page_title='WisdomBot',
     layout='wide'
 )
 
@@ -27,7 +27,7 @@ with col1:
     st.image(logo, width=50)
 
 with col2:
-    st.subheader("_Conversative AI, WisdomBot_")
+    st.subheader("_WisdomBot_")
 
 st.header(" ")
 with st.sidebar:
@@ -37,9 +37,10 @@ with st.sidebar:
     
 if selected == "About":
     st.write(" ")
-    st.header(":blue[Chatbot Intro]")
+    st.header(":blue[Hello, I'm Wisdom]")
     st.write("""
-             Wisdom is an Indigenous Languages AI Assistant that teaches Languages such as Yoruba, Igbo, Hausa and more. It was developed by Conversative AI, a subsidiary of Okubo Wisdom Legacies.
+             your Indigenous Languages AI Assistant that teaches Yoruba, Igbo, Hausa and more.
+                 I was developed by Conversative AI (a subsidiary of Okubo Wisdom Legacies).
              """)
     
     st.header(":blue[About the Company]")
