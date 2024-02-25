@@ -5,7 +5,7 @@ import streamlit as st
 # openai.api_key =st.secrets["OPENAI_API_KEY"]
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-pinecone.init(api_key=st.secrets["df01e84e-68af-43cb-bb36-26a793a0f6a7"], environment='gcp-starter')
+pinecone.init(api_key=st.secrets["PINECONE_API_KEY"], environment='gcp-starter')
 index = pinecone.Index('languagetutor-chatbot')
 
 def find_match(input):
