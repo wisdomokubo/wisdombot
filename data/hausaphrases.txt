@@ -1,0 +1,305 @@
+"How are you?" in Hausa.
+"Lafiya lau?" in Hausa.
+
+"What's up?" in Hausa.
+"Me ke faruwa?" in Hausa.
+
+"Nice to meet you" in Hausa.
+"Na ji dadin haduwa da ku" in Hausa.
+
+"Where are you from?" in Hausa.
+"Daga ina kake?" in Hausa.
+
+"How's it going?" in Hausa.
+"Yaya abin ke faruwa?" in Hausa.
+
+"What do you do?" in Hausa.
+"Me ka ke yi?" in Hausa.
+
+"I don't know" in Hausa.
+"Ban sani ba" in Hausa.
+
+"That's interesting" in Hausa.
+"Abun ban sha'awa" in Hausa.
+
+"I agree" in Hausa.
+"Na yarda" in Hausa.
+
+"I disagree" in Hausa.
+"Ban yarda ba" in Hausa.
+
+"Excuse me" in Hausa.
+"Ku yi hakuri" in Hausa.
+
+"Sorry" in Hausa.
+"Yi hakuri" in Hausa.
+
+"Please" in Hausa.
+"Don Allah" in Hausa.
+
+"Thank you" in Hausa.
+"na gode" in Hausa.
+
+"You're welcome" in Hausa.
+"Marabanku" in Hausa.
+
+"Can you help me?" in Hausa.
+"Za'a iya taya ni?" in Hausa.
+
+"What's your name?" in Hausa.
+"Menene sunnan ku?" in Hausa.
+
+"See you later" in Hausa.
+"Sai anjima" in Hausa.
+
+"Take care" in Hausa.
+"A kula" in Hausa.
+
+"Goodbye" in Hausa.
+"ban kwana" in Hausa.
+
+"Have a great day" in Hausa.
+"Ku yini mai kyau" in Hausa.
+
+"I'm sorry to hear that" in Hausa.
+"Yi hakuri da jin haka" in Hausa.
+
+"No problem" in Hausa.
+"Ba matsala" in Hausa.
+
+"What's new?" in Hausa.
+"Me ke faruwa?" in Hausa.
+
+"How was your day?" in Hausa.
+"Yaya ranar ku?" in Hausa.
+
+"I'm fine, thank you" in Hausa.
+"Ina lafiya, na gode" in Hausa.
+
+"It's a pleasure" in Hausa.
+"Abin farin ciki ne" in Hausa.
+
+"How's the weather?" in Hausa.
+"Yaya yanayi?" in Hausa.
+
+"Where do you live?" in Hausa.
+"Ina kake zama?" in Hausa.
+
+
+"What's your favorite...?" in Hausa.
+"Me kuka fi so...?" in Hausa.
+
+"I don't understand" in Hausa.
+"ban gane ba" in Hausa.
+
+"Could you repeat that?" in Hausa.
+"Maimaita don Allah?" in Hausa.
+
+"Never mind" in Hausa.
+"Kada ku damu" in Hausa.
+
+"I'm not sure" in Hausa.
+"Ban tabbata ba" in Hausa.
+
+"What time is it?" in Hausa.
+"Wani lokaci ne?" in Hausa.
+
+"Let me think" in Hausa.
+"Bari in yi tunani" in Hausa.
+
+"That's a good idea" in Hausa.
+"Wannan kyakkyawan ra'ayi ne" in Hausa.
+
+"I'm not feeling well" in Hausa.
+"Ba na jin dadi" in Hausa.
+
+"What's the matter?" in Hausa.
+"Akwai matsala?" in Hausa.
+
+"It's a long story" in Hausa.
+"Labari ne mai tsawo" in Hausa.
+
+"What's on your mind?" in Hausa.
+"Menene a ranka?" in Hausa.
+
+"Tell me more" in Hausa.
+"Gaya min ƙarin" in Hausa.
+
+"I'm really busy" in Hausa.
+"Ina da aiki sosai" in Hausa.
+
+"Congratulations!" in Hausa.
+"Taya murna!" in Hausa.
+
+"I appreciate that" in Hausa.
+"Na yaba da hakan" in Hausa.
+
+"Do you like...?" in Hausa.
+"Kuna son...?" in Hausa.
+
+"How about you?" in Hausa.
+"Kai fa?" in Hausa.
+
+"It's up to you" in Hausa.
+"Ya rage naku" in Hausa.
+
+"I'm just kidding" in Hausa.
+"wasa nake" in Hausa.
+
+"That's funny" in Hausa.
+"Abun ban dariya" in Hausa.
+
+"I'm hungry" in Hausa.
+"Ina jin yunwa" in Hausa.
+
+"I'm thirsty" in Hausa.
+"Ina kishin ruwa" in Hausa.
+
+"Can I have...?" in Hausa.
+"Zan iya samun...?" in Hausa.
+
+"What's for dinner?" in Hausa.
+"Menene abincin dare?" in Hausa.
+
+"It's delicious" in Hausa.
+"Yana da dadi" in Hausa.
+
+"I love it" in Hausa.
+"ina so shi" in Hausa.
+
+"I don't like it" in Hausa.
+"Ba na son shi" in Hausa.
+
+"What's the price?" in Hausa.
+"Menene farashin?" in Hausa.
+
+
+"Where's the bathroom?" in Hausa.
+"Ina bandakin?" in Hausa.
+
+"I need a favor" in Hausa.
+"Ina bukatan alheri" in Hausa.
+
+"I'm lost" in Hausa.
+"Na bata" in Hausa.
+
+"Can you show me?" in Hausa.
+"Za a iya nuna mani?" in Hausa.
+
+"I'm excited" in Hausa.
+"Ina murna" in Hausa.
+
+"I'm tired" in Hausa.
+"Na gaji" in Hausa.
+
+"I'm bored" in Hausa.
+"Na gundura" in Hausa.
+
+"Let's hang out" in Hausa.
+"Mu dakata" in Hausa.
+
+"What's your hobby?" in Hausa.
+"Menene sha'awar ku?" in Hausa.
+
+"Do you have pets?" in Hausa.
+"Kuna da dabbobi?" in Hausa.
+
+"I miss you" in Hausa.
+"Ina kewar ku" in Hausa.
+
+"I'm sorry for your loss" in Hausa.
+"Yi hakuri da rashinka" in Hausa.
+
+"What's the latest news?" in Hausa.
+"Menene sabon labari?" in Hausa.
+
+"How was your weekend?" in Hausa.
+"Yaya karshen mako ya kasance?" in Hausa.
+
+"Long time no see" in Hausa.
+"Kwana biyu" in Hausa.
+
+"It's a small world" in Hausa.
+"Duniya ce karama" in Hausa.
+
+"I can't believe it" in Hausa.
+"Ba zan iya yarda da shi ba" in Hausa.
+
+"I'm proud of you" in Hausa.
+"Ina alfahari da ku" in Hausa.
+
+"I'm not interested" in Hausa.
+"Ba na sha'awa" in Hausa.
+
+"What's the plan?" in Hausa.
+"Menene shirin?" in Hausa.
+
+"Let's do it" in Hausa.
+"Mu yi" in Hausa.
+
+"Good luck!" in Hausa.
+"Sa'a!" in Hausa.
+
+"Take it easy" in Hausa.
+"Yi sauƙi" in Hausa.
+
+"That's awesome" in Hausa.
+"Wannan abin ban mamaki ne" in Hausa.
+
+"That's terrible" in Hausa.
+"Wannan mummunan abu ne" in Hausa.
+
+"What a coincidence!" in Hausa.
+"Abin da ya faru!" in Hausa.
+
+"I don't care" in Hausa.
+"Ban damu ba" in Hausa.
+
+"Never give up" in Hausa.
+"Kada ku daina" in Hausa.
+
+"I can't wait" in Hausa.
+"Ba zan iya jira ba" in Hausa.
+
+
+"Let's make a deal" in Hausa.
+"Mu yi yarjejeniya" in Hausa.
+
+"I'm not sure" in Hausa.
+"Ban tabbata ba" in Hausa.
+
+"Trust me" in Hausa.
+"Amince da ni" in Hausa.
+
+"I have a question" in Hausa.
+"Ina da tambaya" in Hausa.
+
+"What's the problem?" in Hausa.
+"Menene matsalar?" in Hausa.
+
+"Are you serious?" in Hausa.
+"Kuna da gaske?" in Hausa.
+
+"I'm impressed" in Hausa.
+"Na burge" in Hausa.
+
+"That's fantastic" in Hausa.
+"Wannan abin mamaki ne" in Hausa.
+
+"How did you do that?" in Hausa.
+"Yaya kuka yi haka?" in Hausa.
+
+"You're kidding" in Hausa.
+"Kuna wasa" in Hausa.
+
+"I'm not ready" in Hausa.
+"Ban shirya ba" in Hausa.
+
+"It depends" in Hausa.
+"Ya dogara" in Hausa.
+
+"It's complicated" in Hausa.
+"Yana da rikitarwa" in Hausa.
+
+
+

@@ -1,1 +1,302 @@
+"How are you?" in Yoruba.
+"Bawo ni o se wa?" in Yoruba. 
 
+"What's up?" in Yoruba.
+"Kilode?" in Yoruba.
+
+"Nice to meet you" in Yoruba.
+"Inu mi dun lati pade yin" in Yoruba.
+
+"Where are you from?" in Yoruba.
+"Nibo ni o ti wa?" in Yoruba.
+
+"How's it going?" in Yoruba.
+"Bawo lo ṣe n lọ?" in Yoruba.
+
+"What do you do?" in Yoruba.
+"Kini o nse?" in Yoruba.
+
+"I don't know" in Yoruba.
+"Emi ko mọ" in Yoruba.
+
+"That's interesting" in Yoruba.
+"Ti o ni awon" in Yoruba.
+
+"I agree" in Yoruba.
+"Mo gba" in Yoruba.
+
+"I disagree" in Yoruba.
+"Mi o gba" in Yoruba.
+
+"Excuse me" in Yoruba.
+"Mo tọrọ gafara" in Yoruba.
+
+"Sorry" in Yoruba.
+"Ma binu" in Yoruba.
+
+"Please" in Yoruba.
+"Jowo" in Yoruba.
+
+"Thank you" in Yoruba.
+"E dupe" in Yoruba.
+
+"You're welcome" in Yoruba.
+"A ki dupe ara eni" in Yoruba.
+
+"Can you help me?" in Yoruba.
+"Se o le ran me lowo?" in Yoruba.
+
+"What's your name?" in Yoruba.
+"Kini oruko re?" in Yoruba.
+
+"See you later" in Yoruba.
+"Ma a ri e laipe" in Yoruba.
+
+"Take care" in Yoruba.
+"O dabọ" in Yoruba.
+
+"Goodbye" in Yoruba.
+"O dabọ" in Yoruba.
+
+"Have a great day" in Yoruba.
+"Ojo re oni a dara gan ni" in Yoruba.
+
+"I'm sorry to hear that" in Yoruba.
+"Ma binu lati gbọ iyẹn" in Yoruba.
+
+"No problem" in Yoruba.
+"Kosi wahala" in Yoruba.
+
+"What's new?" in Yoruba.
+"Kini tuntun?" in Yoruba.
+
+"How was your day?" in Yoruba.
+"Bawo ni ọjọ rẹ?" in Yoruba.
+
+"I'm fine, thank you" in Yoruba.
+"O dara o ṣeun" in Yoruba.
+
+"It's a pleasure" in Yoruba.
+"Pelu idunnu ni" in Yoruba.
+
+"How's the weather?" in Yoruba.
+"Bawo ni oju ojo?" in Yoruba.
+
+"Where do you live?" in Yoruba.
+"Nibo ni o ngbe?" in Yoruba.
+
+
+"What's your favorite...?" in Yoruba.
+"Kini ayanfẹ rẹ...?" in Yoruba.
+
+"I don't understand" in Yoruba.
+"Ko ye mi" in Yoruba.
+
+"Could you repeat that?" in Yoruba.
+"Ṣe o le tun iyẹn ṣe?" in Yoruba.
+
+"Never mind" in Yoruba.
+"Maṣe yọ nu" in Yoruba.
+
+"I'm not sure" in Yoruba.
+"Ko da mi loju" in Yoruba.
+
+"What time is it?" in Yoruba.
+"Ogogo melo ni o lu?" in Yoruba.
+
+"Let me think" in Yoruba.
+"Je kin ronu" in Yoruba.
+
+"That's a good idea" in Yoruba.
+"Iyẹn jẹ imọran to dara" in Yoruba.
+
+"I'm not feeling well" in Yoruba.
+"Ara mi ko dara" in Yoruba.
+
+"What's the matter?" in Yoruba.
+"Kin o nsele?" in Yoruba.
+
+"It's a long story" in Yoruba.
+"Itan gigun ni" in Yoruba.
+
+"What's on your mind?" in Yoruba.
+"Ki o wa lokan re?" in Yoruba.
+
+"Tell me more" in Yoruba.
+"Sọ fun mi siwaju sii" in Yoruba.
+
+"I'm really busy" in Yoruba.
+"Mo n lowo looto" in Yoruba.
+
+"Congratulations!" in Yoruba.
+"Oriire!" in Yoruba.
+
+"I appreciate that" in Yoruba.
+"Mo mọriri iyẹn" in Yoruba.
+
+"Do you like...?" in Yoruba.
+"Ṣe o fẹran...?" in Yoruba.
+
+"How about you?" in Yoruba.
+"Iwo na nko?" in Yoruba.
+
+"It's up to you" in Yoruba.
+"O ku si ẹ lọwọ" in Yoruba.
+
+"I'm just kidding" in Yoruba.
+"Mo kan nṣe eremọde ni" in Yoruba.
+
+"That's funny" in Yoruba.
+"Iyen pa ni lerin" in Yoruba.
+
+"I'm hungry" in Yoruba.
+"Ebi n pa mi" in Yoruba.
+
+"I'm thirsty" in Yoruba.
+"Òùngbẹ ń gbẹ mí" in Yoruba.
+
+"Can I have...?" in Yoruba.
+"Ṣe Mo le ni...?" in Yoruba.
+
+"What's for dinner?" in Yoruba.
+"Kini fun ale?" in Yoruba.
+
+"It's delicious" in Yoruba.
+"O dun" in Yoruba.
+
+"I love it" in Yoruba.
+"Mo ni ife re" in Yoruba.
+
+"I don't like it" in Yoruba.
+"Nko feran re" in Yoruba.
+
+"What's the price?" in Yoruba.
+"Kini idiyele naa?" in Yoruba.
+
+
+"Where's the bathroom?" in Yoruba.
+"Nibo ni baluwe?" in Yoruba.
+
+"I need a favor" in Yoruba.
+"Mo nilo ojurere" in Yoruba.
+
+"I'm lost" in Yoruba.
+"Mo sonu" in Yoruba.
+
+"Can you show me?" in Yoruba.
+"Ṣe o le fihan mi?" in Yoruba.
+
+"I'm excited" in Yoruba.
+"Mo dunnu" in Yoruba.
+
+"I'm tired" in Yoruba.
+"O re mi" in Yoruba.
+
+"I'm bored" in Yoruba.
+"O sun mi" in Yoruba.
+
+"Let's hang out" in Yoruba.
+"Jẹ ká idorikodo jade" in Yoruba.
+
+"What's your hobby?" in Yoruba.
+"Kini iṣẹ aṣenọju rẹ?" in Yoruba.
+
+"Do you have pets?" in Yoruba.
+"Ṣe o ni ohun ọsin?" in Yoruba.
+
+"I miss you" in Yoruba.
+"Aro re so mi" in Yoruba.
+
+"I'm sorry for your loss" in Yoruba.
+"Ma binu fun isonu re" in Yoruba.
+
+"What's the latest news?" in Yoruba.
+"Kini iroyin tuntun?" in Yoruba.
+
+"How was your weekend?" in Yoruba.
+"Bawo ni ipari ose rẹ?" in Yoruba.
+
+"Long time no see" in Yoruba.
+"O tojo meta" in Yoruba.
+
+"It's a small world" in Yoruba.
+"Aye kekere ni" in Yoruba.
+
+"I can't believe it" in Yoruba.
+"Emi ko le gbagbọ" in Yoruba.
+
+"I'm proud of you" in Yoruba.
+"Mo gberaga fun ọ" in Yoruba.
+
+"I'm not interested" in Yoruba.
+"Nko ni iferan si" in Yoruba.
+
+"What's the plan?" in Yoruba.
+"Kí ni ètò?" in Yoruba.
+
+"Let's do it" in Yoruba.
+"Jẹ ká ṣe o" in Yoruba.
+
+"Good luck!" in Yoruba.
+"Orire daada!" in Yoruba.
+
+"Take it easy" in Yoruba.
+"Rọra ṣe" in Yoruba.
+
+"That's awesome" in Yoruba.
+"Iyẹn jẹ oniyi" in Yoruba.
+
+"That's terrible" in Yoruba.
+"Iyẹn jẹ ẹru" in Yoruba.
+
+"What a coincidence!" in Yoruba.
+"Ẹ ò rí i pé ó ṣàdédé ṣẹlẹ̀!" in Yoruba.
+
+"I don't care" in Yoruba.
+"Emi ko bikita" in Yoruba.
+
+"Never give up" in Yoruba.
+"Maṣe gba rara" in Yoruba.
+
+"I can't wait" in Yoruba.
+"Nko le duro" in Yoruba.
+
+
+"Let's make a deal" in Yoruba.
+"Jẹ ki a ṣe adehun kan" in Yoruba.
+
+"I'm not sure" in Yoruba.
+"Ko da mi loju" in Yoruba.
+
+"Trust me" in Yoruba.
+"Gbẹkẹle mi" in Yoruba.
+
+"I have a question" in Yoruba.
+"Mo ni ibere kan" in Yoruba.
+
+"What's the problem?" in Yoruba.
+"Kini iṣoro naa?" in Yoruba.
+
+"Are you serious?" in Yoruba.
+"Se tooto ni o so?" in Yoruba.
+
+"I'm impressed" in Yoruba.
+"Mo wú mi lórí" in Yoruba.
+
+"That's fantastic" in Yoruba.
+"Iyẹn jẹ ikọja" in Yoruba.
+
+"How did you do that?" in Yoruba.
+"Bawo ni o ṣe ṣe bẹ?" in Yoruba.
+
+"You're kidding" in Yoruba.
+"O nsere" in Yoruba.
+
+"I'm not ready" in Yoruba.
+"Nko setan" in Yoruba.
+
+"It depends" in Yoruba.
+"O gbarale" in Yoruba.
+
+"It's complicated" in Yoruba.
+"Eleyi diju" in Yoruba.

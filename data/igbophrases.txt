@@ -1,0 +1,304 @@
+"How are you?" in Igbo.
+"Kedu ka ị mere?" in Igbo.
+
+"What's up?" in Igbo.
+"Kedu nke na-eme?" in Igbo.
+
+"Nice to meet you" in Igbo.
+"Ọ dị mma izute gị" in Igbo.
+
+"Where are you from?" in Igbo.
+"Ebee ka i si?" in Igbo.
+
+"How's it going?" in Igbo.
+"Kedu ka ọ si aga?" in Igbo.
+
+"What do you do?" in Igbo.
+"Kedu ihe ị na-eme?" in Igbo.
+
+"I don't know" in Igbo.
+"Amaghị m" in Igbo.
+
+"That's interesting" in Igbo.
+"Nke ahụ na-akpali mmụọ" in Igbo.
+
+"I agree" in Igbo.
+"ekwenyere m" in Igbo.
+
+"I disagree" in Igbo.
+"ekwetaghị m" in Igbo.
+
+"Excuse me" in Igbo.
+"Cheregodi" in Igbo.
+
+"Sorry" in Igbo.
+"Ndo" in Igbo.
+
+"Please" in Igbo.
+"Biko" in Igbo.
+
+"Thank you" in Igbo.
+"Daalụ" in Igbo.
+
+"You're welcome" in Igbo.
+"Ana m asị gị nnọọ" in Igbo.
+
+"Can you help me?" in Igbo.
+"Ị nwere ike ị nyere m aka?" in Igbo.
+
+"What's your name?" in Igbo.
+"Kedu aha gị?" in Igbo.
+
+"See you later" in Igbo.
+"Ka ahụ ma emechaa" in Igbo.
+
+"Take care" in Igbo.
+"Ledo onwe gị" in Igbo.
+
+"Goodbye" in Igbo.
+"Ijeoma" in Igbo.
+
+"Have a great day" in Igbo.
+"Nwee ọmarịcha ụbọchị" in Igbo.
+
+"I'm sorry to hear that" in Igbo.
+"Ọ dị m nwute ịnụ nke ahụ" in Igbo.
+
+"No problem" in Igbo.
+"Nsogbu adịghị" in Igbo.
+
+"What's new?" in Igbo.
+"Kedu nke pụtara ọhụrụ?" in Igbo.
+
+"How was your day?" in Igbo.
+"Kedu ka ụbọchị gị mere?" in Igbo.
+
+"I'm fine, thank you" in Igbo.
+"Adị m mma, daalụ" in Igbo.
+
+"It's a pleasure" in Igbo.
+"Ọ bụ ihe anụrị" in Igbo.
+
+"How's the weather?" in Igbo.
+"Kedu ka ihu igwe dị?" in Igbo.
+
+"Where do you live?" in Igbo.
+"Ebee ka i bi?" in Igbo.
+
+
+"What's your favorite...?" in Igbo.
+"Kedu ihe kacha amasị gị...?" in Igbo.
+
+"I don't understand" in Igbo.
+"Aghọtaghị m" in Igbo.
+
+"Could you repeat that?" in Igbo.
+"Ị nwere ike ikwugharị ihe ahụ?" in Igbo.
+
+"Never mind" in Igbo.
+"Hapụzie" in Igbo.
+
+"I'm not sure" in Igbo.
+"O doghi m anya" in Igbo.
+
+"What time is it?" in Igbo.
+"Kedu ihe na-akụ?" in Igbo.
+
+"Let me think" in Igbo.
+"Ka m chee echiche" in Igbo.
+
+"That's a good idea" in Igbo.
+"Nke ahụ bụ ezi echiche" in Igbo.
+
+"I'm not feeling well" in Igbo.
+"Ahụ adịchaghị m mma" in Igbo.
+
+"What's the matter?" in Igbo.
+"Kedu ihe ọ bụ?" in Igbo.
+
+"It's a long story" in Igbo.
+"Ọ bụ ogologo akụkọ" in Igbo.
+
+"What's on your mind?" in Igbo.
+"Kedu ihe dị n'uche gị?" in Igbo.
+
+"Tell me more" in Igbo.
+"Gwa m ọzọ" in Igbo.
+
+"I'm really busy" in Igbo.
+"Enwere m ọrụ n'aka n'ezie" in Igbo.
+
+"Congratulations!" in Igbo.
+"Ekele!" in Igbo.
+
+"I appreciate that." in Igbo.
+"Enwere m ekele maka nke ahụ" in Igbo.
+
+"Do you like...?" in Igbo.
+"Ọ masịrị gị...?" in Igbo.
+
+"How about you?" in Igbo.
+"Kedu maka gị?" in Igbo.
+
+"It's up to you" in Igbo.
+"Ọ dịzịrị gị" in Igbo.
+
+"I'm just kidding" in Igbo.
+"Ana m egwu egwu" in Igbo.
+
+"That's funny" in Igbo.
+"Nke ahụ na-akpa ọchị" in Igbo.
+
+"I'm hungry" in Igbo.
+"Agụụ na-agụ m" in Igbo.
+
+"I'm thirsty" in Igbo.
+"Mmiri na-agụ m" in Igbo.
+
+"Can I have...?" in Igbo.
+"Enwere m ike ịnweta...?" in Igbo.
+
+"What's for dinner?" in Igbo.
+"Gịnị bụ maka nri abalị?" in Igbo.
+
+"It's delicious" in Igbo.
+"Ọ na-atọ ụtọ" in Igbo.
+
+"I love it" in Igbo.
+"Ahụrụ m ya n'anya" in Igbo.
+
+"I don't like it" in Igbo.
+"Ọ masịghị m" in Igbo.
+
+"What's the price?" in Igbo.
+"Gịnị bụ ọnụ ahịa?" in Igbo.
+
+
+"Where's the bathroom?" in Igbo.
+"Ebee ka ime ụlọ ịwụ ahụ dị?" in Igbo.
+
+"I need a favor" in Igbo.
+"Achọrọ m ihu ọma" in Igbo.
+
+"I'm lost" in Igbo.
+"Efuru M efu" in Igbo.
+
+"Can you show me?" in Igbo.
+"Ị nwere ike igosi m?" in Igbo.
+
+"I'm excited" in Igbo.
+"Obi dị m anụrị" in Igbo.
+
+"I'm tired" in Igbo.
+"Ike gwụrụ m" in Igbo.
+
+"I'm bored" in Igbo.
+"Ịnọ nkịtị na-agwụ m ike" in Igbo.
+
+"Let's hang out" in Igbo.
+"Ka anyị nọrọ" in Igbo.
+
+"What's your hobby?" in Igbo.
+"Kedu ihe ntụrụndụ gị?" in Igbo.
+
+"Do you have pets?" in Igbo.
+"Ị nwere anụ ụlọ?" in Igbo.
+
+"I miss you" in Igbo.
+"A na m atụ ụche gị" in Igbo.
+
+"I'm sorry for your loss" in Igbo.
+"Ọ dị m nwute maka ọnwụ gị" in Igbo.
+
+"What's the latest news?" in Igbo.
+"Kedu akụkọ kacha ọhụrụ?" in Igbo.
+
+"How was your weekend?" in Igbo.
+"Kedu ka izu ụka gị mere?" in Igbo.
+
+"Long time no see" in Igbo.
+"Oteaka anyị hụrụ" in Igbo.
+
+"It's a small world" in Igbo.
+"Ọ bụ obere ụwa" in Igbo.
+
+"I can't believe it" in Igbo.
+"Enweghị m ike ikwere ya" in Igbo.
+
+"I'm proud of you" in Igbo.
+"Ejim gi eme onu" in Igbo.
+
+"I'm not interested" in Igbo.
+"Enweghị m mmasị" in Igbo.
+
+"What's the plan?" in Igbo.
+"Gịnị bụ atụmatụ?" in Igbo.
+
+"Let's do it" in Igbo.
+"Ka anyị mee ya" in Igbo.
+
+"Good luck!" in Igbo.
+"Jisie ike!" in Igbo.
+
+"Take it easy" in Igbo.
+"Jiri ya nwayọọ" in Igbo.
+
+"That's awesome" in Igbo.
+"Nke ahụ dị egwu" in Igbo.
+
+"That's terrible" in Igbo.
+"Nke ahụ dị egwu" in Igbo.
+
+"What a coincidence!" in Igbo.
+"Lee ihe ndabara!" in Igbo.
+
+"I don't care" in Igbo.
+"Achọghị m ịma" in Igbo.
+
+"Never give up" in Igbo.
+"Adana mba" in Igbo.
+
+"I can't wait" in Igbo.
+"Enweghị m ike ichere" in Igbo.
+
+
+"Let's make a deal" in Igbo.
+"Ka anyị mee nkwekọrịta" in Igbo.
+
+"I'm not sure" in Igbo.
+"O doghi m anya" in Igbo.
+
+"Trust me" in Igbo.
+"Tụkwasa m obi" in Igbo.
+
+"I have a question" in Igbo.
+"Enwere m ajụjụ" in Igbo.
+
+"What's the problem?" in Igbo.
+"Gịnị bụ nsogbu?" in Igbo.
+
+"Are you serious?" in Igbo.
+"Ọ bụ eziokwu?" in Igbo.
+
+"I'm impressed" in Igbo.
+"Ọ masịrị m" in Igbo.
+
+"That's fantastic" in Igbo.
+"Nke ahụ dị egwu" in Igbo.
+
+"How did you do that?" in Igbo.
+"Kedu ka i siri mee nke ahụ?" in Igbo.
+
+"You're kidding" in Igbo.
+"Ị na-egwu egwu" in Igbo.
+
+"I'm not ready" in Igbo.
+"Adịbeghị m njikere" in Igbo.
+
+"It depends" in Igbo.
+"Ọ dabere" in Igbo.
+
+"It's complicated" in Igbo.
+"Ọ gbagwojuru anya" in Igbo.
+
+
