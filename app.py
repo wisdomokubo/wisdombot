@@ -13,7 +13,6 @@ import streamlit as st
 from streamlit_chat import message
 from streamlit_option_menu import option_menu
 from utils import *
-from wisdom import *
 
 
 st.set_page_config(
