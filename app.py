@@ -112,7 +112,7 @@ elif selected == "Chatbot":
                 if i < len(st.session_state['requests']):
                     message(st.session_state["requests"][i], is_user=True,key=str(i)+ '_user')
 
-elif selected == "Community Forum":
+elif selected == "Community":
     st.write("""
     Our community is a platform for our users to interact with other users on their language learning journey. It is also a place to get updates on new features, exclusive offers and other essential information. Users can take screenshots of their interactions with the Chatbot and send to the Forum for Feedback, Reviews and Development Purposes.
     
