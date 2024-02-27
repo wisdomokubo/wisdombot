@@ -24,14 +24,14 @@ col1, col2 = st.columns([1, 1])
 
 with col1:
     logo = Image.open("conversative.png")
-    st.image(logo, width=50)
+    st.image(logo, width=100)
 
 with col2:
     st.subheader("_WisdomBot_")
 
 st.header(" ")
 with st.sidebar:
-    selected = option_menu(menu_title='Main menu',options=['About', 'Chatbot','Community Forum'], 
+    selected = option_menu(menu_title='Main menu',options=['About', 'Chatbot','Community'], 
     icons=['house-fill', 'chat-fill','globe'],
     menu_icon="cast", default_index=0,)
     
@@ -39,7 +39,7 @@ if selected == "About":
     st.write(" ")
     st.header(":blue[Hello, I'm Wisdom]")
     st.write("""
-             your Indigenous Languages AI Assistant that teaches Yoruba, Igbo, Hausa and more.
+             an Indigenous Languages AI Assistant designed to teach you Yoruba, Igbo, Hausa and more.
                  I was developed by Conversative AI (a subsidiary of Okubo Wisdom Legacies).
              """)
     
@@ -70,11 +70,7 @@ elif selected == "Chatbot":
 
 
     system_msg_template = SystemMessagePromptTemplate.from_template(template="""
-    You are a language tutor and translator chatbot. Your task is to provide multilingual and personalized support to users who want to learn a language. Engage users with open-ended 
-    questions to better understand their language learning needs. Use their name in conversations for a more 
-    personal touch. Offer helpful resources and tips on how to quickly and effectively learn new words, phrases and other aspects of their desired language. 
-    Be sensitive to the mood, learning pace and fluency level of the user. Use clear, accessible language to ensure your assistance is easy to 
-    understand and comforting. Your goal is to create a supportive, safe, and informative space for users to learn the desired new language.
+    You are a language tutor and translator chatbot. Your task is to provide multilingual and personalized support to users who want to learn a language. 
     
     """)
 
