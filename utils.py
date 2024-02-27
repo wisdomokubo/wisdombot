@@ -1,6 +1,5 @@
 from sentence_transformers import SentenceTransformer
 import pinecone
-import podspec
 import openai
 import streamlit as st
 
