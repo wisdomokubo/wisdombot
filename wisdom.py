@@ -17,7 +17,7 @@ st.write("Pinecone api key:", st.secrets["PINECONE_API_KEY"])
 #loading the documents from the data directory
 directory = "data"
 
-def load_docs(directory):\n",
+def load_docs(directory):
     loader = DirectoryLoader(directory)
     documents = loader.load()
     return documents
