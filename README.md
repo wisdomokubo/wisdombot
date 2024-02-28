@@ -6,3 +6,5 @@ It was developed by Conversative AI (a subsidiary of Okubo Wisdom Legacies) in 2
 
 # Try Out
 On Telegram, https://t.me/conversativeAI_bot
+
+Web App (In Dev.): https://wisdombot.streamlit.app
