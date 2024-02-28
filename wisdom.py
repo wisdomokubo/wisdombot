@@ -58,8 +58,8 @@ index_name = "languagetutor-chatbot"
 index = Pinecone.from_documents(docs, embeddings, index_name=index_name) 
 
 
-pinecone.init(api_key=st.secrets["PINECONE_API_KEY"], environment="gcp-starter")
-pinecone.list_indexes()
+# pinecone.init(api_key=st.secrets["PINECONE_API_KEY"], environment="gcp-starter")
+# pinecone.list_indexes()
 
 
 #accessing the embedding by using the similarity search function
@@ -70,6 +70,6 @@ def get_similar_docs(query, k=1, score= False):
         similar_docs = index.similarity_search(query, k=k)
     return similar_docs
 
-query = ""How are you?" in Yoruba."
+query = "How are you? in Yoruba."
 similar_docs = get_similar_docs(query)
 similar_docs
