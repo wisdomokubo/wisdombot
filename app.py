@@ -1,6 +1,7 @@
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationChain
 from langchain.chains.conversation.memory import ConversationBufferWindowMemory
+import os
 import openai
 from PIL import Image
 from langchain.prompts import (
@@ -70,7 +71,7 @@ elif selected == "Chatbot":
 
 
     system_msg_template = SystemMessagePromptTemplate.from_template(template="""
-    You are a language tutor and translator chatbot. Your task is to provide multilingual and personalized support to users who want to learn a language. 
+    You are a helpful assistant. 
     
     """)
 
