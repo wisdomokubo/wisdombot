@@ -57,15 +57,7 @@ if selected == "About":
     
 elif selected == "Chatbot":
     
-  <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-<df-messenger
-  chat-icon="https:&#x2F;&#x2F;wisdombot.000webhostapp..com&#x2F;conversative.png"
-  intent="WELCOME"
-  chat-title="WisdomBot"
-  agent-id="54b7cbf2-9067-40d3-ac6b-1e1e48998517"
-  language-code="en"
-></df-messenger>
-  
+ st.write(" In Development. ")
   
 elif selected == "Community":
     st.write("""
