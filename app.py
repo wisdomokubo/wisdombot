@@ -59,7 +59,7 @@ if selected == "About":
 elif selected == "Chatbot":
     
     if 'responses' not in st.session_state:
-        st.session_state['responses'] = ["Hi, I am Wisdom, a bot designed to teach you indigenous languages. How are you?"]
+        st.session_state['responses'] = ["Hi, I am Wisdom, a bot designed to teach you indigenous languages. I am still under development and trying to send me a message will only return errors. Text my Telegram predecessor and Join the community."]
         
     if 'requests' not in st.session_state:
         st.session_state['requests'] = []
@@ -112,6 +112,11 @@ elif selected == "Chatbot":
                 message(st.session_state['responses'][i],key=str(i))
                 if i < len(st.session_state['requests']):
                     message(st.session_state["requests"][i], is_user=True,key=str(i)+ '_user')
+
+    st.header(":blue[Join the Waiting list!]")
+    
+        st.write(" Telegram Group:")
+
 
 elif selected == "Community":
     st.write("""
