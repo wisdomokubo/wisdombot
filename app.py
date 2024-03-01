@@ -114,7 +114,7 @@ elif selected == "Chatbot":
                     message(st.session_state["requests"][i], is_user=True,key=str(i)+ '_user')
 
     st.header(":blue[Join the Waiting list!]")
-    
+    st.write(" Link: https://t.me/+crFZeJ4FrHIyYzFk")
 
 
 elif selected == "Community":
