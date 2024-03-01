@@ -32,14 +32,31 @@ with col2:
 
 st.header(" ")
 with st.sidebar:
-    selected = option_menu(menu_title='Main menu',options=['Chatbot', 'About','Community'], 
+    selected = option_menu(menu_title='Main menu',options=['Welcome', 'Chatbot','Community'], 
     icons=['house-fill', 'chat-fill','globe'],
     menu_icon="cast", default_index=0,)
     
-if selected == "Chatbot":
+if selected == "Welcome":
+    st.write(" ")
+    st.header(":blue[Hello, I'm Wisdom]")
+    st.write("""
+             an Indigenous Languages AI Assistant designed to teach you Yoruba, Igbo, Hausa and more.
+                 I was developed by Conversative AI (a subsidiary of Okubo Wisdom Legacies).
+             """)
+    st.header(":blue[Try me!]")
+    st.write(" https://t.me/conversativeAI_bot ")
+    st.header(":blue[About the Company]")
+    st.write("""
+             Conversative AI is an Artificial Intelligence Research company founded in 2023 by Wisdom Okubo. Its Parent Company, Okubo Wisdom Legacies, has a mission of curating Africa's Indigenous and Endangered Languages.
+
+             """)
     
+    st.write(" ")
+    
+    
+elif selected == "Chatbot":
     if 'responses' not in st.session_state:
-        st.session_state['responses'] = ["Hi, I am Wisdom, a bot designed to teach you indigenous languages. I am still under development and trying to send me a message will only return errors. You can Join the waiting list or Try out the previous Public release below."]
+        st.session_state['responses'] = ["Hi, I am a more advanced version of Wisdom. I am still under development and trying to text me will send an error message. However, You can Join the waiting list below and Try out the current Available Version on Telegram."]
         
     if 'requests' not in st.session_state:
         st.session_state['requests'] = []
@@ -95,28 +112,8 @@ if selected == "Chatbot":
 
     st.header(":blue[Join the Waiting list!]")
     st.write(" Link: https://t.me/+crFZeJ4FrHIyYzFk")
-    st.header(":blue[Try me]")
+    st.header(":blue[Try me!]")
     st.write(" Link: https://t.me/conversativeAI_bot")
-    
-    
-   
-elif selected == "About":
-    
-    st.write(" ")
-    st.header(":blue[Hello, I'm Wisdom]")
-    st.write("""
-             an Indigenous Languages AI Assistant designed to teach you Yoruba, Igbo, Hausa and more.
-                 I was developed by Conversative AI (a subsidiary of Okubo Wisdom Legacies).
-             """)
-    
-    st.header(":blue[About the Company]")
-    st.write("""
-             Conversative AI is an Artificial Intelligence Research company founded in 2023 by Wisdom Okubo. Its Parent Company, Okubo Wisdom Legacies, has a mission of curating Africa's Indigenous and Endangered Languages.
-
-             """)
-    
-    st.write(" ")
-    
 
 
 elif selected == "Community":
