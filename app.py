@@ -119,7 +119,7 @@ elif selected == "Chatbot":
 
 elif selected == "Community":
     st.write("""
-    Our community is a platform for our users to interact with other users on their language learning journey. It is also a place to get updates on new features, exclusive offers and other essential information. Users can take screenshots of their interactions with the Chatbot and send to the Forum for Feedback, Reviews and Development Purposes. https://t.me/+crFZeJ4FrHIyYzFk
+    Our community is a platform for our users to interact with other users on their language learning journey. It is also a place to get updates on new features, exclusive offers and other essential information. Users can take screenshots of their interactions with the Chatbot and send to the Forum for Feedback, Reviews and Development Purposes. Click on this link to Join: https://t.me/+crFZeJ4FrHIyYzFk
 
     """)
     
